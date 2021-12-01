@@ -6,4 +6,5 @@ practicing Data structures and algorithims
   b)floor of a number without using any math functions
   c)ceil of a number without using any math functions
   d)rotated binary search
+  e)HCF of 2 numbers
 
