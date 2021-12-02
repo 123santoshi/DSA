@@ -1,0 +1,9 @@
+l=[5,6,2,1,3,4,9,8,7]
+i=0
+while(i<len(l)):
+    correct=l[i]-1
+    if(l[i]!=l[correct]):
+        l[i],l[correct]=l[correct],l[i]
+    else:
+        i=i+1
+print(l)
