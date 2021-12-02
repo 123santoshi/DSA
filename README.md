@@ -7,4 +7,8 @@ practicing Data structures and algorithims
   c)ceil of a number without using any math functions
   d)rotated binary search
   e)HCF of 2 numbers
+  
+2)IN DAY2 PRACTICING QUESTIONS BASED ON SEARCHING AND COUNTING
+ a)find duplicates in the given array
+ b)
 
