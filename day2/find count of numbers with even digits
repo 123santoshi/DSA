@@ -1,0 +1,14 @@
+l=[]
+n=int(input("enter n value=="))
+for  i  in range(0,n):
+    val=int(input("enter value==>"))
+    l.append(val)
+count=0
+for i in l:
+    digit=0
+    while(i>0):
+        digit=digit+1
+        i=i//10
+    if(digit%2==0):
+        count=count+1
+print(count)
