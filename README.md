@@ -8,7 +8,9 @@ practicing Data structures and algorithims
   d)rotated binary search
   e)HCF of 2 numbers
   
-2)IN DAY2 PRACTICING QUESTIONS BASED ON SEARCHING AND COUNTING
+2)IN DAY2 PRACTICING QUESTIONS BASED ON ARRAYS
  a)find duplicates in the given array
- b)
+ b)cyclic sort
+ c)find count of numbers with even digits
+ d)richest custimer wealth(max count)
 
