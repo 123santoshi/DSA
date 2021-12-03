@@ -1,3 +1,5 @@
+#input==Let's take LeetCode contest
+#output=s'teL ekat edoCteeL tsetnoc
 s=input("enter sentence==")
 l=s.split()
 ans=""
