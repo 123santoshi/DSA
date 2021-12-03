@@ -15,5 +15,7 @@ practicing Data structures and algorithims
  d)richest custimer wealth(max count)
  
  3)IN DAY3 PRACTCING PREVIOUSLY ASKED CODING QUESTIONS IN INFYTQ
-    a)
+    a)A string of comma sepaarted numbers are given such that numbers 4 and 7 already present in the list.Assume that 7 always                comes after 4 in the given string
+    b)OTP generation
+    c)
 
