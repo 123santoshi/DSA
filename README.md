@@ -13,4 +13,7 @@ practicing Data structures and algorithims
  b)cyclic sort
  c)find count of numbers with even digits
  d)richest custimer wealth(max count)
+ 
+ 3)IN DAY3 PRACTCING PREVIOUSLY ASKED CODING QUESTIONS IN INFYTQ
+    a)
 
