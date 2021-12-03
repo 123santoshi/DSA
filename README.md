@@ -19,4 +19,6 @@ practicing Data structures and algorithims
     b)OTP generation
     c)reverse the string after removing duplicates
     d)form largest even number after removing characters and spl characters
+    e)reverse the string except special characters
+    f)reverse the swords in sentence
 
