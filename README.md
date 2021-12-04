@@ -21,4 +21,8 @@ practicing Data structures and algorithims
     d)form largest even number after removing characters and spl characters
     e)reverse the string except special characters
     f)reverse the swords in sentence
+   
+  4)IN DAY4 PRACTCING QUESTIONS ON LEETCODE
+  ` a)find out length of max consecutive ones
+    
 
