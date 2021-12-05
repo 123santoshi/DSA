@@ -25,5 +25,7 @@ practicing Data structures and algorithims
   4)IN DAY4 PRACTCING QUESTIONS ON LEETCODE
   ` a)find out length of max consecutive ones
     b)print the pattern and find nth element in the series
+  5)IN DAY5 PRACTCING CODING QUESTIONS ASKED IN COMPANIES
+    a)find index of first unique character in the string
     
 
