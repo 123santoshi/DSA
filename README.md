@@ -27,6 +27,7 @@ practicing Data structures and algorithims
     b)print the pattern and find nth element in the series
   5)IN DAY5 PRACTCING CODING QUESTIONS ASKED IN COMPANIES
     a)find index of first unique character in the string
-    b)print the combinations of the given target sum==combinations sum
+    b)print the combinations of the given target sum==combinations sum the given string 
+    c)print alternate even odd numbers in the given string after extracting diggits from given string
     
 
