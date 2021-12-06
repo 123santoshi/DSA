@@ -30,5 +30,8 @@ practicing Data structures and algorithims
     b)print the combinations of the given target sum==combinations sum the given string 
     c)print alternate even odd numbers in the given string after extracting diggits from given string
     d)find unique pairs such that each of the integers in the pair have the same sum of the digits
+   6)IN DAY6 PRACTICING QUESTIONS ASKED IN COMPANIES
+    a)decoding
+    b)print all permutations and find the max number in the permutations
     
 
