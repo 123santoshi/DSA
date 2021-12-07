@@ -33,5 +33,7 @@ practicing Data structures and algorithims
    6)IN DAY6 PRACTICING QUESTIONS ASKED IN COMPANIES
     a)decoding
     b)print all permutations and find the max number in the permutations
+   7)IN DAY7 PRACTICING QUESTIONS ASKED IN INFYTQ
+    a)dictionary shifting
     
 
