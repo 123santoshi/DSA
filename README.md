@@ -36,5 +36,6 @@ practicing Data structures and algorithims
    7)IN DAY7 PRACTICING QUESTIONS ASKED IN INFYTQ
     a)dictionary shifting
     b)finding kth smallest element in array(practice in geeks for geeks)
+    c)to extract the new string from given conditions
     
 
