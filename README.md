@@ -37,5 +37,6 @@ practicing Data structures and algorithims
     a)dictionary shifting
     b)finding kth smallest element in array(practice in geeks for geeks)
     c)to extract the new string from given conditions
+    d)to get a string where all occurances of its first char have been changed to  "#" except first character
     
 
