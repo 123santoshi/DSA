@@ -35,5 +35,6 @@ practicing Data structures and algorithims
     b)print all permutations and find the max number in the permutations
    7)IN DAY7 PRACTICING QUESTIONS ASKED IN INFYTQ
     a)dictionary shifting
+    b)finding kth smallest element in array(practice in geeks for geeks)
     
 
