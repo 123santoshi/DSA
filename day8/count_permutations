@@ -1,1 +1,15 @@
-
+s=input("enter string==")
+def fact(n):
+    if(n==0):
+        return 1
+    else:
+        return n*fact(n-1)
+l=len(s)
+ans=fact(l)
+print("total permutations==",ans)
+unique=set(s)
+for i in unique:
+    count=s.count(i)
+    countfact=fact(count)
+    ans=ans//count
+print(ans)
