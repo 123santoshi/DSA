@@ -38,5 +38,10 @@ practicing Data structures and algorithims
     b)finding kth smallest element in array(practice in geeks for geeks)
     c)to extract the new string from given conditions
     d)to get a string where all occurances of its first char have been changed to  "#" except first character
+   8)IN DAY8 PRACTICNG COMANDS ON SQL
+    2)count al permutations
+   9)IN DAY9 PRACTICING QUESTIONS ON STRINGS
+    a)string find 
+    b)vowels change with numbers
     
 
