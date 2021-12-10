@@ -1,0 +1,17 @@
+l=[3,2,5,8,9,10,11]
+m=max(l)
+fac=[]
+a=0
+b=1
+c=1
+while(c<m):
+    c=a+b
+    fac.append(c)
+    a=b
+    b=c
+print("fibonaci series ==",fac)
+l3=[]
+for i in fac:
+    if i in l:
+        l3.append(i)
+print("longest fibonacci series==",l3)
