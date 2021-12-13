@@ -43,6 +43,11 @@ practicing Data structures and algorithims
    9)IN DAY9 PRACTICING QUESTIONS ON STRINGS
     a)string find 
     b)vowels change with numbers
-   10)elements which occur odd number of times
+   10)a)elements which occur odd number of times
+    b)sort elements based on frequency
+    c)sort string based on lexiographically
+    d)sort string based on length of characters
+    e)find common characters in 2 strings
+    
     
 
