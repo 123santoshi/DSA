@@ -1,0 +1,14 @@
+s=intput("enter string==")
+d={}
+for i in s:
+    if i not in d:
+        d[i]=1
+    else:
+        d[i]=d[i]+1
+print(d)
+ans=sorted(d,key=lambda x:d[x],reverse=True)
+print(ans)
+final_string=""
+for i in ans:
+    final_string=final_string+(i*s.count(i))
+print("final strign after sorting based on frequencies==",final_string)
