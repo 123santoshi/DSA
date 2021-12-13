@@ -43,5 +43,6 @@ practicing Data structures and algorithims
    9)IN DAY9 PRACTICING QUESTIONS ON STRINGS
     a)string find 
     b)vowels change with numbers
+   10)elements which occur odd number of times
     
 
