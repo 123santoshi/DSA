@@ -1,0 +1,6 @@
+s=input("enter string==")
+s=sorted(s)
+ans=""
+for i in s:
+    ans+=i
+print("after sorting elemnts are==",ans)
