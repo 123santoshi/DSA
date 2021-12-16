@@ -4,7 +4,7 @@ for i in l:
     s+=str(i)
 print(s)
 l2=[]
-s1=s.split("1")
+s1=s.split("0")
 l2.append(s1)
 print(s1)
 m=0
