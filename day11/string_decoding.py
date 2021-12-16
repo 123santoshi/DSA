@@ -1,4 +1,4 @@
-s="3[a]2[bc]"
+s="3[a]2[bc]"            #aaabcbc
 stack=[]
 for i in s:
     if(i!=']'):
