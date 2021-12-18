@@ -49,6 +49,9 @@ practicing Data structures and algorithims
     d)sort string based on length of characters
     e)find common characters in 2 strings
    11)a)string decoding
-    
+   12)IN DAY 12
+      a)sort list based on sum of digits
+      b)print pattern string diagonally
+      c)count the sum of letters in string start with a=1,...z=26
     
 
