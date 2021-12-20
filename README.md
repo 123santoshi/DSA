@@ -57,6 +57,6 @@ practicing Data structures and algorithims
       b)separate even odd index characters in string
       c)sort 2 strings and merge into single string
       d)find next character
-      e)
+      e)sort letters and numebrs in string
     
 
