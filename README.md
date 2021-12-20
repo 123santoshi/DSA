@@ -53,5 +53,10 @@ practicing Data structures and algorithims
       a)sort list based on sum of digits
       b)print pattern string diagonally
       c)count the sum of letters in string start with a=1,...z=26
+    13)a)expand the string
+      b)separate even odd index characters in string
+      c)sort 2 strings and merge into single string
+      d)find next character
+      e)
     
 
