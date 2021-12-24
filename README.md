@@ -58,6 +58,8 @@ practicing Data structures and algorithims
       c)sort 2 strings and merge into single string
       d)find next character
       e)sort letters and numebrs in string
-   14)
+   14)a)index of numeric values
+      b)print 3rd letter from given letter
+      c)separate and add numerics and words separately
     
 
