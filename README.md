@@ -61,5 +61,6 @@ practicing Data structures and algorithims
    14)a)index of numeric values
       b)print 3rd letter from given letter
       c)separate and add numerics and words separately
+   15)a)Add plus one(google code)
     
 
