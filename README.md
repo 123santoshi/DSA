@@ -62,5 +62,7 @@ practicing Data structures and algorithims
       b)print 3rd letter from given letter
       c)separate and add numerics and words separately
    15)a)Add plus one(google code)
+   16)a)sort by frequency
+      b)binary palindrome
     
 
